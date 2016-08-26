@@ -10,10 +10,10 @@ highlighter: rouge
 #
 title : simple site
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Михаил Че
+  email : mche@perl.com
+  github : mche
+  twitter : none
   feedburner : nil
 
 production_url : http://mche.github.io/project_site
