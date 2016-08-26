@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Мой проект №1
 author :
   name : Михаил Че
   email : mche@perl.com
   github : mche
-  twitter : none
+  twitter : kwbroman
   feedburner : nil
 
 production_url : http://mche.github.io/project_site
