@@ -14,7 +14,7 @@ author :
   email : mche@perl.com
   github : mche
   twitter : kwbroman
-  feedburner : nil
+  #~ feedburner : nil
 
 production_url : http://mche.github.io/project_site
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Мой проект №1
+title:  Добро пожаловать!
 tagline: 
 description: 
 ---
