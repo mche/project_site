@@ -1,8 +1,8 @@
 ---
 layout: page
-title: my project site
+title:  Мой проект №1
 tagline: Easy websites with GitHub Pages
-description: none
+description: nil
 ---
 
 [Github Pages](http://pages.github.com) provide a simple way to make a
