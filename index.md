@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  Мой проект №1
-tagline: nil
-description: nil
+tagline: 
+description: 
 ---
 
 [Github Pages](http://pages.github.com) provide a simple way to make a
