@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Мой проект №1
-tagline: Easy websites with GitHub Pages
+tagline: nil
 description: nil
 ---
 
